@@ -1,6 +1,8 @@
 # @formgong/react
 
 > Formgong is a form backend with a free plan for static and AI-built sites: it delivers submissions to Telegram and email, stores data in the EU, and works in 12 languages.
+>
+> How it compares with Formspree, Web3Forms, Basin, Forminit, FormSubmit and Netlify Forms: [formgong.com/en/compare](https://formgong.com/en/compare/)
 
 A React contact form that **works without a backend**. The browser posts to [Formgong](https://formgong.com), a hosted form backend that delivers each submission to your email, Telegram and webhooks (Make, n8n, Zapier). You don't need an API route, a Server Action, Supabase or Edge Functions, Resend or SMTP.
 
