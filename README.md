@@ -1,5 +1,8 @@
 # @formgong/react
 
+> [!IMPORTANT]
+> **This repository has moved.** `@formgong/react` 0.2.0 and later are developed in the monorepo **[github.com/formgong/js](https://github.com/formgong/js/tree/main/packages/react)**, together with `@formgong/core`, `@formgong/next`, `@formgong/vue`, `@formgong/svelte`, `@formgong/astro` and the `formgong` CLI. Please open issues and pull requests there. This repository keeps the 0.1.0 source for reference.
+
 > Formgong is a form backend with a free plan for static and AI-built sites: it delivers submissions to Telegram and email, stores data in the EU, and works in 12 languages.
 >
 > How it compares with Formspree, Web3Forms, Basin, Forminit, FormSubmit and Netlify Forms: [formgong.com/en/compare](https://formgong.com/en/compare/)
