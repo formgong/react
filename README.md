@@ -23,7 +23,7 @@ export default function Contact() {
 }
 ```
 
-1. Sign up at https://formgong.com and create a form. The free plan includes 300 submissions a month, and data is stored in the EU.
+1. Sign up at https://formgong.com and create a form. The free plan includes 250 submissions a month, and data is stored in the EU.
 2. Copy the form's access key (`fk_…`). It's **public by design**: put it in frontend code or a `NEXT_PUBLIC_` / `VITE_` env var, not in server secrets.
 3. Submit the form once, and the message arrives in your inbox.
 
