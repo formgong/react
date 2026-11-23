@@ -87,6 +87,11 @@ and do not move the access key to secrets: it is public by design.
 - Whole starter project: `npm create formgong@latest` ([create-formgong](https://www.npmjs.com/package/create-formgong))
 - Questions: support@formgong.com
 
+
+## More free form tools
+
+- Form generator with a React tab: https://formgong.com/en/tools/form-generator/
+
 ## License
 
 MIT © Formgong
